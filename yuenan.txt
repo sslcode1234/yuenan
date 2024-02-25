@@ -1,0 +1,12 @@
+{
+     "links": {
+          "Partner": "https://tkshopvnm.com/TiktokAPI/shopCenter.aspx?route=Partner&",
+          "goodsList": "https://tkshopvnm.com/TiktokAPI/shopCenter.aspx?route=goodsList&",
+          "orderList": "https://tkshopvnm.com/TiktokAPI/shopCenter.aspx?route=orderList&",
+          "shopCenter": "https://tkshopvnm.com/TiktokAPI/shopCenter.aspx?route=shopCenter&",
+          "tk_crash_url": "https://tkshopvnm.com/TiktokAPI/crash_log.aspx",
+          "tkchat_history": "https://tkshopvnm.com/TiktokAPI/tkchat_history.aspx",
+          "tkchat_state": "https://tkshopvnm.com/TiktokAPI/tkchat_state.aspx",
+          "tktab_text": "https://tkshopvnm.com/TiktokAPI/tab_text.aspx"
+     }
+}
