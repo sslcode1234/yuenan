@@ -1,12 +1,1 @@
-{
-     "links": {
-          "Partner": "https://tkshopvnm.com/TiktokAPI/shopCenter.aspx?route=Partner&",
-          "goodsList": "https://tkshopvnm.com/TiktokAPI/shopCenter.aspx?route=goodsList&",
-          "orderList": "https://tkshopvnm.com/TiktokAPI/shopCenter.aspx?route=orderList&",
-          "shopCenter": "https://tkshopvnm.com/TiktokAPI/shopCenter.aspx?route=shopCenter&",
-          "tk_crash_url": "https://tkshopvnm.com/TiktokAPI/crash_log.aspx",
-          "tkchat_history": "https://tkshopvnm.com/TiktokAPI/tkchat_history.aspx",
-          "tkchat_state": "https://tkshopvnm.com/TiktokAPI/tkchat_state.aspx",
-          "tktab_text": "https://tkshopvnm.com/TiktokAPI/tab_text.aspx"
-     }
-}
+ewogICAgICJsaW5rcyI6IHsKICAgICAgICAgICJQYXJ0bmVyIjogImh0dHBzOi8vdGtzaG9wdm5tLmNvbS9UaWt0b2tBUEkvc2hvcENlbnRlci5hc3B4P3JvdXRlPVBhcnRuZXImIiwKICAgICAgICAgICJnb29kc0xpc3QiOiAiaHR0cHM6Ly90a3Nob3B2bm0uY29tL1Rpa3Rva0FQSS9zaG9wQ2VudGVyLmFzcHg/cm91dGU9Z29vZHNMaXN0JiIsCiAgICAgICAgICAib3JkZXJMaXN0IjogImh0dHBzOi8vdGtzaG9wdm5tLmNvbS9UaWt0b2tBUEkvc2hvcENlbnRlci5hc3B4P3JvdXRlPW9yZGVyTGlzdCYiLAogICAgICAgICAgInNob3BDZW50ZXIiOiAiaHR0cHM6Ly90a3Nob3B2bm0uY29tL1Rpa3Rva0FQSS9zaG9wQ2VudGVyLmFzcHg/cm91dGU9c2hvcENlbnRlciYiLAogICAgICAgICAgInRrX2NyYXNoX3VybCI6ICJodHRwczovL3Rrc2hvcHZubS5jb20vVGlrdG9rQVBJL2NyYXNoX2xvZy5hc3B4IiwKICAgICAgICAgICJ0a2NoYXRfaGlzdG9yeSI6ICJodHRwczovL3Rrc2hvcHZubS5jb20vVGlrdG9rQVBJL3RrY2hhdF9oaXN0b3J5LmFzcHgiLAogICAgICAgICAgInRrY2hhdF9zdGF0ZSI6ICJodHRwczovL3Rrc2hvcHZubS5jb20vVGlrdG9rQVBJL3RrY2hhdF9zdGF0ZS5hc3B4IiwKICAgICAgICAgICJ0a3RhYl90ZXh0IjogImh0dHBzOi8vdGtzaG9wdm5tLmNvbS9UaWt0b2tBUEkvdGFiX3RleHQuYXNweCIKICAgICB9Cn0=
